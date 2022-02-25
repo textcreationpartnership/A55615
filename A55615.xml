@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A practical consideration of the saints sonship In a discourse upon the fourth chapter of the Galatians, vers. 6.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55615</idno>
+            <idno type="STC">Wing P3149</idno>
+            <idno type="STC">ESTC R221794</idno>
+            <idno type="EEBO-CITATION">99833051</idno>
+            <idno type="PROQUEST">99833051</idno>
+            <idno type="VID">37526</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55615)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37526)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2053:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A practical consideration of the saints sonship In a discourse upon the fourth chapter of the Galatians, vers. 6.</title>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Robert Ibbitson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Galatians IV, 6 --  Commentaries --  Early works to 1800.</term>
+               <term>Children of God --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37526:1"/>
+            <pb facs="tcp:37526:1" rendition="simple:additions"/>
+            <p>A Practical Conſideration OF THE SAINTS SONSHIP.</p>
+            <p>In a Diſcourſe upon the fourth Chapter of the <hi>Galatians,</hi> verſ. 6.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Robert Ibbitſon,</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37526:2"/>
+            <pb n="3" facs="tcp:37526:2"/>
+            <head>A Practical Conſideration of the Saints Son-ſhip.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>GAL. 4.6.</hi>
+                  </bibl>
+                  <p>And becauſe ye are Sons, God hath ſent forth the Spirit of his Son in your hearts, crying Abba Father.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Apoſtle having ſhewed the poor and mean condition the Law rendered us in, holds out the glory of our condition under the Goſpel, in the conſiderati<g ref="char:EOLhyphen"/>on of our Son-ſhip, wee being by our Lords comming, freed from that pu<g ref="char:EOLhyphen"/>pillage and bondage wee were before held under, that wee might receive the adoption of Sonnes, and being redeemed thereunto, receive the ſpirit, and all good things as a conſequent of ſuch a ſtate.</p>
+            <p>Theſe words do acquaint us in the general ſcope of them with this great truth, that it is not any Grace in us, or works done by us: That firſt brings us into that ſtate of the Goſpel, wherein wee have favour and acceptance with God, but God firſt appoints us unto ſuch a ſtate, and thereupon gives us Grace ſutable un<g ref="char:EOLhyphen"/>to it <hi>Becauſe yee are Sonnes,</hi> Becauſe God hath in Chriſt appointed you to ſuch a glorious eſtate, therefore is
+<pb n="4" facs="tcp:37526:3"/>the ſpirit of his Sonne, and all good things given un<g ref="char:EOLhyphen"/>to you, although I might ſpeak much of this, yet I intend to confine my ſelf to the obſerving only this one truth.</p>
+            <p>Doct, <hi>That the ſtate of a Christian under the Goſpel, is a ſtate of Son-ſhip.</hi>
+            </p>
+            <p>Wee finde in our natural ſtate wee are abſolute ene<g ref="char:EOLhyphen"/>mies unto God, under the Law wee come but to be ſervants, but under the Goſpel we become ſons.</p>
+            <p>Wee bear herein a proportion with the Lord Chriſt our head, who is not as <hi>Moſes</hi> was, a ſervant in Gods houſe, but hee is a Son, he is the Son in his own houſe, and therefore his brethren are Sons, that Son-ſhip that hee hath from the Father, it carries their Son-ſhip in it: As hee in his humanity became like them in all things, ſin only excepted, ſo are they in their conformity, made like him in all things, ſave where<g ref="char:EOLhyphen"/>in hee is their Saviour and their head, and as they have one common image to both, ſo have they one princi<g ref="char:EOLhyphen"/>ple and root, for the Apoſtle tells us, that our life is hid with Chriſt in God, that is the Saints life, and is hid together with Chriſts life in God, hee is the foun<g ref="char:EOLhyphen"/>tain of both their lives: This comprehends in a word, the excellent Grace and glory of the Goſpel, that ſuch poor remote wretches from God, ſuch ſtrangers and enemies as wee are, ſhould become Sons, ſhould hee born of God in Chriſt, and inherit freely all his grace and glory; the Apoſtle ſeems to make a ſtop, and admire at this, Behold ſaith hee, <hi>what manner of love the father hath ſhewed unto us, that we ſhould be called the Sonnes of God!</hi> Tis not only a thing of admirable ad<g ref="char:EOLhyphen"/>vantage, but of aſtoniſhing honour; could <hi>David</hi> think it a great matter to bee a Kings Sonne in Law, and ſhall not wee, value this high calling of God in Chriſt Jeſus?</p>
+            <p>To bee his ſons, the Apoſtle ſpeaks of this; as the higheſt thing wee can attain to in this life, now ſaith hee wee are the ſons of God: we finde in Scripture, the
+<pb n="5" facs="tcp:37526:3"/>Lord pleaſing to afford this title three ways, firſt, and principally to Chriſt, hee is always called the Son, and ſomewhat more, the only begotten Son of the father, none ever begotten as hee was, firſt, in reſpect of his eternal eſſence, wherein hee is the eternal Son, and ſe<g ref="char:EOLhyphen"/>condly, in reſpect of his humanity, and manhood, and his headſhip therein to both creations, hee being ſo begotten, the ſpring of all natural life and being, and the head of his body the Church: wee finde alſo the Angells called the Sons of God, and in <hi>Job</hi> 38.7. when the morning Stars ſang together, and all the ſons of God ſhouted for joy; ſpeaking of the Angels, and in <hi>Luke</hi> 3.38. <hi>Adam</hi> is called the ſon of God.</p>
+            <p>This is in reference unto their firſt creation, and laſtly, in this Goſpel ſenſe, this honour have all the Saints, to be called Sons, and this their ſon ſhip through and in Chriſt, the only ſon, is farre more excellent, than that of the Angels; or of <hi>Adams,</hi> the root of <hi>Adams</hi> ſtate and glory lay in himſelf, and ſo being mutable, hee of a Son created, became a fallen depraved bitter enemy, this is unchangeably fixed; and growing dai<g ref="char:EOLhyphen"/>ly to perfection, tis more excellent than that of the An<g ref="char:EOLhyphen"/>gels, in as much as it is wrought and ariſeth (to the ex<g ref="char:EOLhyphen"/>ceeding glory of free grace) out of enmity, darkneſſe, and a fallen ſtate; which they were never in, and ſe<g ref="char:EOLhyphen"/>condly, as tis in Chriſt the head of this Son-ſhip, exal<g ref="char:EOLhyphen"/>ted above the Angels in the excellency and glory of it.</p>
+            <p>There be two queſtions, may be fitly reſolved in this place.</p>
+            <list>
+               <item>1 How come we to this eſtate, and then wherein doth it conſiſt?</item>
+               <item>2 How ſtood the Saints under the Law in the old Te<g ref="char:EOLhyphen"/>ſtament in reference to it.</item>
+            </list>
+            <p>For the firſt queſtion, we come to this ſtate by Chriſts purchaſe alone, wee receive it from God through him, and it hath its root in him, hee diſpenſeth it to us, him hath God the father ſealed for this purpoſe, this
+<pb n="6" facs="tcp:37526:4"/>wee ſee in <hi>Joh.</hi> 1.12. <hi>But to as many as received him; to them hee gave power, or dignity, to become the Sons of God.</hi> It conſiſts in this, that our Lord Chriſt by what hee hath in his own perſon done, hath taken from us the yoak of the firſt covenant, and of the Law, un<g ref="char:EOLhyphen"/>der which wee were as ſtrangers, and ſo dealt withall, and hath obtained a right for us to this ſtate of Son-ſhip, and neerneſs to God, wherein wee freely inherit life and ſalvation, hee hath broken down the partition wall of ſin and gilt, that was between God and man, by reaſon of his inability to fulfil the righteouſneſſe of the Law, and having ſatisfied that, and nailed the con<g ref="char:EOLhyphen"/>demning power thereof upon his croſſe, hee brings man that was ſo farre off, thus neer unto God, and makes him look upon God, no more as an infinite being, who is a law giver only and a judge, but now in him become a moſt affectionate tender father, and brings God who was thus in Chriſt reconciling himſelf to the world, to bee no more as at a diſtance, but neer and one with the Creature as a Father, and in the deereſt and neereſt re<g ref="char:EOLhyphen"/>lations, God is become in Chriſt a Father, and wee his children, our maker, our husband, and we his Spouſe, and ſo wee are brought into this bleſſed ſtate, wherein God deals with us as Sonnes, with all love, ſweetneſs, and familiarity.</p>
+            <p>And laſtly, That which makes this right of Son-ſhip, which Chriſt hath ſo purchaſed and obtained, effectuall, and gives us the poſſeſſion of it, is God gives us the ſpi<g ref="char:EOLhyphen"/>rit of his Son, Chriſts Son-ſhip is as it were communi<g ref="char:EOLhyphen"/>cated unto us, and ſo wee have not only a right of Son-ſhip in Chriſt, but through him the ſpirit of ſons to ap<g ref="char:EOLhyphen"/>ply to God as a Father, and wee are not only under an outward adminiſtration of Son-ſhip, wherein we ſhould bee ſure ſtill to retain the mind and ſpirit of ſervants, and enemies, but have the hearts and ſpirits of Sons giv<g ref="char:EOLhyphen"/>en unto us, and are by this effectual provſion of the Lord, no more in a ſpirit of bondage unto fear, but of power and love and of a ſound mind.</p>
+            <p>
+               <pb n="7" facs="tcp:37526:4"/>
+And thus our Lord hath redeemed us into the ſame ſtate with himſelf, hee being a Sonne, wee are ſo too.</p>
+            <p>To the ſecond queſtion, what enjoyment the Saints under the Law had of this priviledge, my Anſwer is, they then had this ſtate of Son-ſhip in faith, but not in poſſeſſion until the fulneſſe of time came, they had a right to it, as wee uſe to ſay, but not in it, the ad<g ref="char:EOLhyphen"/>miniſtration of the Law bowed down their backs, they were at School under tutors and governours, they did not receive this Adoption of Sons: As heaven is now to us, ſo was this ſtate to them, wee have a right to it, and have it by faith, yet ſtand obliged to the duties of our preſent adminiſtration in this life, ſo they had a right to this Adoption of Sons by the ſon, and ſaw it and hoped for it a farre off, but lay obliged under the elements of the world, and were ſhut up un<g ref="char:EOLhyphen"/>der the Law, till the time appointed by their and our Father, this better thing being kept for the Saints in theſe days, that they without us might not bee per<g ref="char:EOLhyphen"/>fect.</p>
+            <p>This Doctrin of the Saints ſon-ſhip, being every where in the Scriptures witneſſed unto, I ſhall improve it theſe two wayes.</p>
+            <p>Firſt, By way of Uſe, and then by way of Triall, whether we be in poſſeſſion of this ſtate or not?</p>
+            <p>Firſt, And firſt if the Saints be now ſons, tis a ſhame to thoſe, who by a Legal carnal Miniſtery, ſeek to make ſervants and ſlaves of them, this they do who ſet up works, and impoſe that yoak which our fathers were not able to bear, who ſo urge the commands of the goſ<g ref="char:EOLhyphen"/>pel, as that they turn it into a meer Covenant of works, and revive again the dead body of <hi>Moſes,</hi> which God himſelf hath buried, and ſo erect a worldly Sanctuary, as if Chriſt were not aſcended and become a miniſter of the ſanctuary, and true tabernacle; who brings the Conſcience into bondage, in thoſe things wherein Chriſt hath made his people free, who ſet the Saints to ob<g ref="char:EOLhyphen"/>tain
+<pb n="8" facs="tcp:37526:5"/>that by works, and conditions, which they have by their ſonſhip, by inheritance, this is the Devils con<g ref="char:EOLhyphen"/>ſtant deſign to ſcar men from the Goſpel, by obſcuring that glorious life and ſpirit that is brought therein to light, and if hee cannot overthrow the ſtate of thoſe that have received it, to raiſe up Doctrins to make their courſe as weariſome, and as full of bondage as hee can, and therefore wee need often to read that ad<g ref="char:EOLhyphen"/>viſe of the Apoſtle, in <hi>Gal.</hi> 5.1. <hi>ſtand faſt in the liberty wherewith Chriſt hath made you free.</hi> &amp;c.</p>
+            <p>Secondly, The ſecond uſe may bee this; if wee are ſons, do wee walk like ſons of the moſt high? are we filial towards God in our converſation, are we as obe<g ref="char:EOLhyphen"/>dient Children, not faſhioned to this world, if hee ſay come, do wee come, and if hee ſay go, do wee go, are wee at a beck, waiting to bee diſpoſed and directed by him, and do we follow his commands as dear chil<g ref="char:EOLhyphen"/>dren, without murmuring and without diſputing? if wee do not, if wee profeſſe God to bee our father, may not hee ſay to us, if I am your Father where is my honour, the ſoveraignty of God may re<g ref="char:EOLhyphen"/>quire our obedience from us, but how much more ſhould the conſideration of him as a father beget it in us, what the greatneſs of God will not do, ſurely his good<g ref="char:EOLhyphen"/>neſſe ſhould not fail of; Can there bee oppoſition unto kindneſs, the infinite God takes that way to over<g ref="char:EOLhyphen"/>come us poor worms, if God will own himſelf our fa<g ref="char:EOLhyphen"/>ther, tis equal ſure wee ſhould behave our ſelves like his children, and if hee bee our father, ſhould wee not ſhew forth his image, if wee rightly conſider it, what greater priviledge imaginable, what greater bleſſedneſs then to bear the glorious image of our Creator, thus manifeſted in Chriſt; who ſhould do it, if his ſons, his children ſhould not? wee are kept in the world for this purpoſe, to bear forth his vertues, and his praiſes be<g ref="char:EOLhyphen"/>fore the blind world, were it not for this work that is to be done, he would ſoon take us to himſelf in the heavens.</p>
+            <p>What a great ſhame and diſhonour is it unto the Lord,
+<pb n="9" facs="tcp:37526:5"/>to profeſſe our ſelves his ſons, and yet walk in an earthy, ſenſual, deviliſh ſpirit; lets ſhew ſome tokens of our country, and of our fathers houſe; lets carry ſome badge of a heavenly extraction, wee have born the I<g ref="char:EOLhyphen"/>mage of the earthy plain enough. O lets bear the I<g ref="char:EOLhyphen"/>mage of the heavenly, we are plainly <hi>Adams</hi> ſons in na<g ref="char:EOLhyphen"/>ture, lets appear ſons of God in grace; How glorious, how convincing would bee the life of a Chriſtian, if hee did ſhew forth the Image of his father, whoſe tender mercies are over all his works, who cauſeth his Sun to ſhine on the juſt, and the unjuſt, who when he bids us forgive till ſeventy times ſeven, tis but that wee might bee like him our heavenly father, who in that patience and goodneſs, and forbearance, and eaſineſſe to be en<g ref="char:EOLhyphen"/>treated, which hee ſhews to us, is a pattern what wee ſhould do one towards another, when ever a chriſtian miſcarries, tis ſtepping aſide from his Fathers Image, this is that end concerning man, God hath propoſed to himſelf and been about, by the Law, by the Prophets, by the Goſpel, by all, as the way to make him happy, and a fit object for his converſe; to ſtamp his own image upon him.</p>
+            <p>Thirdly, Every Chriſtian know your ſtate, thou art a ſon, though but a babe in the Goſpel, wee are ſons aad heirs, and joynt heirs with Chriſt, moſt Chriſtians looſe much of their comfort and ſtrength by this, they conſider not the relation which in Chriſt God and man ſtand in together, they live only in the comfort of their graces, and not of their ſtate; A man may think ea<g ref="char:EOLhyphen"/>ſily too much of himſelf, that is the error very many are in, and hee may alſo think too low of himſelf, the de<g ref="char:EOLhyphen"/>vil is not without his deviſes that way too.</p>
+            <p>A man can never bee debaſed enough as in him<g ref="char:EOLhyphen"/>ſelf, and yet hee may exalt himſelf in that eſtate which God hath in Chriſt appointed him unto, we may thus glory in the Lord; Let not the Devil nor our unbeleev<g ref="char:EOLhyphen"/>ing hearts ever remove us from this, wee are ſonnes, though Prodigals, let this conſideration help to reco<g ref="char:EOLhyphen"/>ver
+<pb n="10" facs="tcp:37526:6"/>us out of temptation, when wee ſit darkneſs, and ſee no light: Lets think our ſelves too good to be feed<g ref="char:EOLhyphen"/>ing amongſt the dogs, and the ſwine of this world: Lets think our ſelves of too noble a quality and birth, to be made ſlaves by Satan, and captived at his will, or to be ſervants unto men, and to be in bondage unto them, or to become drudges to dirty unſatiable luſts. We are bought with a price, the blood of out deareſt Lord, unto Sonſhip, and unto ſpiritual freedome; lets not bee like prophane <hi>Eſau;</hi> lets not part with it upon any terms, there is nothing under the Sun can bee a price for it.</p>
+            <p>Fourthly, If wee are ſons, Lets go to God always as to our Father, lets treat with him more intimately and freely, than a man would do with his friend: And ac<g ref="char:EOLhyphen"/>quaint him with all our wants and griefes, as know<g ref="char:EOLhyphen"/>ing him properly concerned therein, and bury all our cares in his boſome.</p>
+            <p>How ſweet will our communion bee with him, if whenſoever wee come to call upon him, wee bring this ſetled apprehenſion with us, that hee is our father, the reaſon why wee often miſcarry in the comfort of our prayers, it is, becauſe wee think but randomly of him, according to what our preſent temper is, wee frame out imaginations of God, of what wee finde in our ſelves, the prodigal hee recovered himſelf with this, ſaith hee, Ile go to my Father, if hee bee my Father, there is my hope, though I have never ſo much misbehaved my ſelf: tis hard to find a caſe that a Fathers heart on earth will not bee ſtirred towards his ſon, but if that ſhould bee, twill never bee ſo with our Father which is in hea<g ref="char:EOLhyphen"/>ven, wee can no ſooner make towards him, but hee'le meet us; whilſt wee are a farre off, and embrace us, and take us home; let our Lord herein bee a pat<g ref="char:EOLhyphen"/>tern to us, who whilſt hee converſed in this lower world, would ever keep up this claim to God to bee his Father: the meanneſſe of his condition, nor the Jews threats to ſtone him for it, never made him let go the owning of
+<pb n="11" facs="tcp:37526:6"/>this relation: O take heed of nouriſhing up hard thoughts of God! tis the ground of all Apoſtaſy: if you pray not to God as your Father, you will not pray to him long at all, you will take the firſt opportunity to quit his ſervice, you will do nothing but to ſtop the mouth of a hungry gnawing conſcience: the more you think of him, the more you will bee troubled: All approa<g ref="char:EOLhyphen"/>ches to God under any other apprehenſion but this, will but awaken terrour, and multiply guilt before your face: O remember therefore our Lord hath taught us to begin all our approaches unto God, with calling him <hi>Our Father.</hi>
+            </p>
+            <p>This term will make all our guilt to vaniſh, and bury it out of our ſight, and drive away our ſins as a thick cloud, and make all thoſe conſiderations of his greatneſs, and his majeſty ſweet unto us.</p>
+            <p>Fifthly, if God be our Father, why doubt we of be<g ref="char:EOLhyphen"/>ing provided for, can thoſe that have ſuch a father want? why take wee ſo much care, why do wee ſeek an in<g ref="char:EOLhyphen"/>heritance in the world? doth not our Father know what wee want of theſe things: Lets not chooſe for our ſelves, but let him provide for us, hee takes care of the Lilies, and hee feeds the Ravens, and ſhall his chil<g ref="char:EOLhyphen"/>dren want? Shall Chriſts ſeed bee unprovided for? <hi>Paul</hi> tells us, <hi>tis the Fathers work to provide for the chil<g ref="char:EOLhyphen"/>dren:</hi> How unbecomming a thing is it, for a man that cals God his Father, to ſeek help any where elſe; remem<g ref="char:EOLhyphen"/>ber that good man, who was aſhamed to ask a troop of horſe of the King, becauſe hee had named the name of the Lord: Never apply but to the Lord, if you ask him bread, he will not give you a ſtone, and if you ask him a fiſh, hee will not give you a Scorpion, in our Fathers houſe there is bread enough: And lets be con<g ref="char:EOLhyphen"/>tent with the portion our Father gives us, hee loves us much more then wee love our ſelves, and hee infinite<g ref="char:EOLhyphen"/>ly knows, what will beſt fit us: Hee lets us know as much of his love as wee are able to bear, and fit to bee Maſters off in this preſent ſtate; Hee that hath of has
+<pb n="12" facs="tcp:37526:7"/>meer Grace appointed us to glory, ſhould wee not truſt him, as knowing beſt how to carry us through this world unto it; And hee lets us want nothing of this world that would not hurt us, when hee denyes us here<g ref="char:EOLhyphen"/>in, but to keeps us out of deadly ſnares, and fence us from being peirced through with many ſorrows; what<g ref="char:EOLhyphen"/>ever our condition bee in this world, let this conſiderati<g ref="char:EOLhyphen"/>on ſanctify the beſt, and ſweeten the worſt, to us, tis our Fathers portion.</p>
+            <p>Sixthly, If wee are ſons, lets love our brethren, lets not bee unnatural to the Saints, enquire for them as <hi>David</hi> did after the houſe of <hi>Saul,</hi> that hee might ſhew kindneſſe to them, and uſe them as he did <hi>Mephiboſheth,</hi> though hee were lame of his feet, take them into your boſome, though they are deformed before the world, perhaps they want their right hands, and their right eyes, nay though they have many infirmities, and are ſome of them poor, peeviſh, froward children, yet love them for their fathers ſake, our Lord expects this at our hands, that we ſhould love the Brethren; and hath left a ſolemn charge with us in his abſence to do it, we have theſe always with us, to ſhew our love to, but we have not him always: Where ſhould love be perfected, if not amongſt thoſe who have him that is love it ſelf for their Father, wee ſhall have nothing but hatred from the world, ſhould not that make us love the more? Lets not therefore bee unkind to the poor Saints, ſay of them whereſoever, and in what ſoever condition you find them, as <hi>Adam</hi> ſaid of <hi>Eve,</hi> when ſhee was brought to him, this is now bone of my bone, and fleſh of my fleſh; wee came all out of that pierced ſide of our Lord: and bee not unkind to your own fleſh, but love it, and cheriſh it: hereby ſhall wee appear to bee ſons in loving the Saints as brethren.</p>
+            <p>Seventhly, and Laſtly, If God bee our father, be not afraid, nor troubled to go to him, remember how our Lord comforted himſelf, and his Diſciples, at his depar<g ref="char:EOLhyphen"/>ture, I go ſaith hee, to my father, and your father: O
+<pb n="13" facs="tcp:37526:7"/>bee not troubled to dye, you ſhall bee with your father, that loves you, bee not diſcouraged to come before him, becauſe of your unkind, untoward dealings with him, hee is your father that hath freely paſſed by all; you ſhall read in <hi>Gen.</hi> 50.16, 17. when <hi>Joſephs</hi> brethren after their Fathers death, ſpake to him of their former unkindneſſe to him, and diſcovered their fears that he would puniſh it upon them: <hi>Joſeph</hi> wept, the Text ſaith when they ſpake unto him, they much miſtook his heart, they took a wrong meaſure of his ſpirit by the narrowneſſe of their own: tis ſo with us in this caſe: wee ſhall when wee dye bee at home; wee are here in a ſtrange Countrey, ill uſed, not known; there wee ſhall be in honour, wee ſhall ſee our father, whom wee have ſo much longed to know, and who hath kept us all our life long, and we ſhall be uſed like ſons, and ſit down at his right hand with the ſon our head: Let this con<g ref="char:EOLhyphen"/>ſideration that the great God is our Father, make us willing to ſhut our eyes to the world, and bee no more ſeen here, that wee may bee with him, lets ſay with <hi>Paul,</hi> to bee diſſolved and to bee with Chriſt, and with him, is beſt of all: Let not the fear of death, keep us as it did them of old, all our life time in bondage, but lets now rejoycingly wait all the days of our appointed time till our change ſhall come.</p>
+            <p>And thus having had ſome glimmerings of this glori<g ref="char:EOLhyphen"/>ous ſtate of the Saints, and of the obligations, or rather great priviledges that do attend it, let us try and prove our ſelves whether wee bee in this ſtate or not, whether wee are Baſtards, only in profeſſion and appearance ſons, or whether wee be ſons indeed, and have that true ſpi<g ref="char:EOLhyphen"/>rit of the ſon dwelling in us, and that wee may do it; I ſhall lay down ſome concomitants amongſt many, of that true ſtate of Sonſhip; wherein as in a glaſs, wee may ſee out faces, and judge of our ſelves as to this mat<g ref="char:EOLhyphen"/>ter.</p>
+            <p n="1">1 If wee are ſons, wee have a ſpirit of prayer to go to God in all extremities, tis not ſo with an hypocrite, hee
+<pb n="14" facs="tcp:37526:8"/>cannot pray always, God ſends the ſpirit of his ſon into our hearts, and hee ſends it crying Abba father, tis a ſpirit of prayer while wee are in this world, tis but crying and groaning in us.</p>
+            <p>A ſon hath not only the form of comming unto God, and the gift of praying, but the Grace of praying for him, the ſpirit it ſelf makes interceſſion, with ſighs and groans which cannot bee expreſſed: if this ſpirit be hid, tis hid to them that are loſt.</p>
+            <p n="2">2 A ſon doth all out of love, hee loves God as his father, all his ſervice tis out of love, tis not forced and wrung from him, hee doth not as <hi>Saul</hi> did, force him<g ref="char:EOLhyphen"/>ſelf to ſacrifice: but he offers up himſelf freely. He fears, he repents, hee mourns, he mortifyes himſelf, and all out of love; he rejoyceth to dye daily, he hath love that is ſtrong as death, many waters can not quench it, hee loves God, and therfore thinks nothing too much to do, is not meaſu<g ref="char:EOLhyphen"/>ring the minutes of that time hee ſpends in his ſervice, but is through love, all his dayes, and in every thing, giving himſelf up wholly to the Lord.</p>
+            <p n="3">3 A ſon can bear affliction, takes not things unkind<g ref="char:EOLhyphen"/>ly from God, ſubmits to the father of ſpirits. A ſonne truſts God though hee kill him, hee knows though hee do ſorely afflict him, yet hee will at laſt return as hee did to <hi>Ephraim,</hi> in <hi>Jer.</hi> 31. ſaith God. <hi>is Ephraim my dear Sonne, is hee a pleaſant child? ſince I ſpake againſt him, I do earneſtly remember him ſtill;</hi> A ſon will hang upon God, though hee ſeem never ſo angry with him: Let mee go ſaith God to <hi>Jacob,</hi> I will not let thee go, ſaith hee, till thou bleſſe mee. This ſeems ſtrange, but tis the ſon like ſpirit.</p>
+            <p>A worldly man and an hypocrite, grows preſently out of love with God, a little thing will make him fly in Gods face, and cry out, what profit is it that I have fa<g ref="char:EOLhyphen"/>ſted? A man without the ſpirit of a ſon, when hee is under an afflicting hand, hee tumbles like a wild bull in a net, hee is preſently with <hi>Jobs</hi> wife, curſing of God, a carnal profeſſor grows worſe and worſe by the rod; A
+<pb n="15" facs="tcp:37526:8"/>Son learns obedience as Chriſt did by the thing that he ſuffers, he is more meek, more broken hearted, lies lower at Gods feet, and hee ſaies not a word more, but with old <hi>Eli,</hi> tis the Lord, let him do what ſeems him good: Tis my fathers hand is upon mee, though it ſeem hea<g ref="char:EOLhyphen"/>vy, hee corrects me for my profit, that I might partake of his holineſs, and hee ſo corrects every ſon that hee re<g ref="char:EOLhyphen"/>ceives, and I ſhall reap the quiet and peaceable fruit of righteouſneſſe by all in the end.</p>
+            <p n="4">4 Hee that hath the ſpirit of a ſon, uſeth all enjoy<g ref="char:EOLhyphen"/>ments both natural and ſpiritual in freedome, is ſenſible of his propriety in his Fathers right, tis not ſo with ano<g ref="char:EOLhyphen"/>ther: A Son is never hide-bound nor in bondage with what he poſſeſſeth, he lives in the ſpirit of the ſon, and that is a free ſpirit.</p>
+            <p>
+               <hi>A Spirit of Adoption</hi> makes a man extream ſtrickt, and true to God as a Father, and ſo extream free in whatſo<g ref="char:EOLhyphen"/>ever hee does: He hath a large ſpirit, and is not at touch not, taſte not, handle not, tis much otherways with a man that hath a legal conſcience, as <hi>Solomon</hi> ſays in another caſe ſo tis with him, hee never eates his bread with comfort: Every thing proves a ſnare and a burden to him: If there<g ref="char:EOLhyphen"/>fore any bee awakened to look heaven ward, and deſires to live the life of a Chriſtian, let him wait for the ſpirit of a ſon, and ſo hee ſhall come to know that Kingdome of God, that is not meat and drink, but righteouſneſs, and peace, and joy in the Holy Ghoſt.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
